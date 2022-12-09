@@ -53,8 +53,8 @@ services:
       KEY: '255d861b-5ea1-5996-9aa3-922530ec40b1'
       SECRET: '6116487b-cda1-52c2-b5b5-c8022c45e263'
 
-	  DB_CLIENT: 'sqlite3'
-	  DB_FILENAME: ''./data.db'
+      DB_CLIENT: 'sqlite3'
+      DB_FILENAME: './data.db'
 
       ADMIN_EMAIL: 'admin@example.com'
       ADMIN_PASSWORD: 'd1r3ctu5'
